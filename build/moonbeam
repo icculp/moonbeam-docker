@@ -1,0 +1,3 @@
+Replace this file with the binary below
+VERSION=0.24.0
+https://github.com/PureStake/moonbeam/releases/download/$VERSION/moonbeam
